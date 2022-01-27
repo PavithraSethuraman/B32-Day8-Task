@@ -96,8 +96,6 @@ movie3.getPG();
     var movie003=new movieee('Casino Royale','Eon Productions','PG13');
     console.log(movie003)
     
-//3.Write a “person” class to hold all the details.
-
 
 
 
